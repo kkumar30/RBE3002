@@ -1,0 +1,2 @@
+kkumar_lab2
+-DCATKIN_DEVEL_PREFIX=/home/kkumar/RBE3002/devel -DCMAKE_INSTALL_PREFIX=/home/kkumar/RBE3002/install -G Unix Makefiles

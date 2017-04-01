@@ -1,0 +1,8 @@
+prefix=/home/kkumar/RBE3002/install
+
+Name: kkumar_lab2
+Description: Description of kkumar_lab2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kkumar/RBE3002/install/lib 
+Requires: 
